@@ -4,7 +4,7 @@
 Bienvenue sur mon portfolio ! Découvrez mes projets, mes compétences en Data Science, et mes expériences dans le domaine de la santé.
 
 ## À propos de moi
-Étudiante en **Master 1 Data Science en Santé** à l’Université de Lille, je possède une solide formation en Biostatistique et Biotechnologie. Passionnée par l'analyse des données, la programmation et la santé publique, je suis à la recherche d’un stage de mars 2024 à août 2024.
+Étudiante en **Master 1 Data Science en Santé** à l’Université de Lille, diplomée en Biostatistique et Biotechnologie. Passionnée par l'analyse des données, la programmation et la santé publique, je suis à la recherche d’un stage de mars 2025 à août 2025.
 
 ## Compétences
 - **Analyse statistique** : Régressions logistique et linéaire, analyse de survie.
