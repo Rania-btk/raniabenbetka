@@ -1,12 +1,30 @@
-title: "Rania BENBETKA"
-logo: "/assets/img/headshot_circle.png"
-description: "Welcome to my portfolio! Discover my projects and professional journey."
-show_downloads: false
-social_links:
-  - name: LinkedIn
-    url: "https://linkedin.com/in/rania-benbetka"
-  - name: GitHub
-    url: "https://github.com/your-username"
-  - name: Email
-    url: "mailto:your-email@example.com"
-theme: jekyll-theme-cayman
+title: "Portfolio de [Rania BENBETKA]"
+description: "Bienvenue sur mon portfolio. Découvrez mes projets et compétences en Data Science et Santé."
+baseurl: "" 
+url: "https://raniabenbetka.github.io" 
+theme: minima
+minima:
+  skin: dark
+  social_links:
+    github: https://github.com/Rania-btk
+    linkedin: https://www.linkedin.com/in/rania-benbetka-aaa02b286/
+
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+author:
+  name: "[Rania BENBETKA]"
+  email: "rania.benbetka.etu@univ-lille.fr"
+
