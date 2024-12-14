@@ -1,7 +1,3 @@
-# Welcome to My Portfolio 🎉
-
-![Profile Picture](assets/img/headshot_circle.png)
-
 
 # Welcome to My Portfolio 🎉
 
@@ -33,9 +29,7 @@ Hi, I am **Rania BENBETKA**, a passionate Data Scientist in Health with a solid 
 
 ## Contact Me 📬
 - **LinkedIn**: [Rania Benbetka](https://linkedin.com/in/rania-benbetka)
-- **GitHub**: [YourUsername](https://github.com/your-username)
-- **Email**: [YourEmail@example.com](mailto:your-email@example.com)
+- **GitHub**: [Rania-btk](https://github.com/your-username)
+- **Email**: [rania.benbetka.etu@univ-lille.fr.](mailto:your-email@example.com)
 
-## Fun Facts About Me
-- I enjoy cooking and staying active with sports.
-- I'm passionate about bridging data science and health to make a difference!
+
