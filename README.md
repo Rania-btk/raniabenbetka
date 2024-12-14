@@ -1,35 +1,34 @@
 
-# Welcome to My Portfolio 🎉
+# Portfolio de Rania BENBETKA
 
-![Profile Picture](assets/img/headshot_circle.png)
+Bienvenue sur mon portfolio ! Découvrez mes projets, mes compétences en Data Science, et mes expériences dans le domaine de la santé.
 
-Hi, I am **Rania BENBETKA**, a passionate Data Scientist in Health with a solid background in Biostatistics and Biotechnology. Here you'll find details about my projects, skills, and professional aspirations.
+## À propos de moi
+Étudiante en **Master 1 Data Science en Santé** à l’Université de Lille, je possède une solide formation en Biostatistique et Biotechnologie. Passionnée par l'analyse des données, la programmation et la santé publique, je suis à la recherche d’un stage de mars 2024 à août 2024.
 
-## About Me
-- **Education**: Master's in Data Science in Health with expertise in Biostatistics and Health Informatics.
-- **Professional Interests**: Data Analysis, Machine Learning, Web Development, and Health Informatics.
-- **Objective**: Leveraging data science to drive impactful healthcare solutions.
+## Compétences
+- **Analyse statistique** : Régressions logistique et linéaire, analyse de survie.
+- **Programmation** : R (ggplot2, dplyr, Shiny), Python (pandas, NumPy), SQL.
+- **Outils** : RStudio, Visual Studio Code, GitHub, REDCap, SPSS.
+- **Gestion de données** : Modélisation de bases de données, web scraping, bibliométrie.
+- **Langues** : Français, Anglais, Arabe, Turc.
 
-## Featured Projects
+## Projets récents
+### Analyse de survie en soins intensifs
+- **Objectif** : Étudier les facteurs de risque influençant la survie des patients.
+- **Technologies** : R, packages `survival` et `ggplot2`.
 
-### 1. Survival Analysis in Intensive Care Units 🏥
-- **Objective**: Analyze risk factors influencing patient mortality.
-- **Tech Stack**: R, ggplot2, survival package
-- **Summary**: Developed a comprehensive survival model to identify key risk factors in patient outcomes.
+### Modélisation des facteurs de risque de l'athérosclérose
+- **Objectif** : Identifier les facteurs clés liés à la santé cardiovasculaire.
+- **Technologies** : R, modélisation statistique, visualisations.
 
-### 2. Linear Regression Analysis on Atherosclerosis Factors 🧪
-- **Dataset**: CHU Bordeaux sample
-- **Objective**: Analyze risk factors using variables like age, gender, BMI, smoking habits.
-- **Tools**: R, lm() function, data visualization libraries
+### Revue bibliométrique sur la neurodiversité
+- **Objectif** : Explorer l'évolution des publications scientifiques sur l'autisme et la neurodiversité.
+- **Technologies** : Python, bibliometrix.
 
-### 3. Bibliometric Study on Autism and Neurodiversity 📚
-- **Objective**: Explore publication trends on PubMed.
-- **Methodology**: Conducted systematic analysis of publication metadata.
-- **Tech Stack**: R, tidyverse, bibliometrix package
+## Contactez-moi
+- **Email** : rania.benbetka.etu@univ-lille.fr
+- **LinkedIn** : [Rania Benbetka](https://linkedin.com/in/rania-benbetka)
+- **GitHub** : [Rania Benbetka](https://github.com/ton-username)
 
-## Contact Me 📬
-- **LinkedIn**: [Rania Benbetka](https://linkedin.com/in/rania-benbetka)
-- **GitHub**: [Rania-btk](https://github.com/your-username)
-- **Email**: [rania.benbetka.etu@univ-lille.fr.](mailto:your-email@example.com)
-
-
+Merci de votre visite et n’hésitez pas à explorer mes projets !
